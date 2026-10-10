@@ -1,6 +1,6 @@
 # RhombixTechnologies_Memory_Puzzle_Game
 
-# 🧩 Memory Puzzle Game - Rhombix Technologies
+# 🧩 Memory Puzzle Game 
 
 An interactive, browser-based **Memory Puzzle Game** developed using Python and **NiceGUI**, created as part of project tasks with **Rhombix Technologies**.
 
